@@ -24,6 +24,7 @@ def update_map_style(
             "custom": True,
             "icon": custom_map_icon,
             "id": map_style_id,
+            "label": map_style_id,
             "url": custom_map_url,
         }
 
