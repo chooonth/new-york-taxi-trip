@@ -1,5 +1,5 @@
 ## Interactive Map Visualization with Kepler GL and Streamlit
-* opening event: https://www.udemy.com/course/interactive-map-visualization-with-kepler-gl-and-streamlit/?couponCode=EMAIL10
+* **Opening Event**: https://www.udemy.com/course/interactive-map-visualization-with-kepler-gl-and-streamlit/?couponCode=EMAIL10
 
 ---
 In this course, you will achieve the following goals:
