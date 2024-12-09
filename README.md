@@ -1,7 +1,5 @@
 ## Interactive Map Visualization with Kepler GL and Streamlit
-* **Opening Event**: https://www.udemy.com/course/interactive-map-visualization-with-kepler-gl-and-streamlit/?couponCode=EMAIL10
 
----
 In this course, you will achieve the following goals:
 - **Mastering the Kepler.gl Demo UI**: Without writing code, you will directly interact with the Kepler.gl interface and experience its various features, gaining a basic understanding of data visualization.
 - **Creating Map Visualizations with Kepler.gl**: Using Google Colab, you will write code to generate map visualizations with Kepler.gl. You will learn how to extract visualization settings and use them to customize maps according to your needs.
